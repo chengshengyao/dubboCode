@@ -1,0 +1,12 @@
+# 项目排除路径
+/001-link-userservice-provider/target/
+/002-link-consumer/target/
+/003-link-interface/target/
+/004-link-userservice-provider/target/
+/005-link-consumer/target/
+/006-zk-interface/target/
+/7-zk-userservice-provider/target/
+/007-zk-userservice-provider/target/
+/008-zk-consumer/target/
+/009-zk-mulit-provider/target/
+/010-zk-mulit-consumer/target/

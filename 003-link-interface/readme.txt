@@ -1,0 +1,2 @@
+link-interface是一个maven java工程
+官方推荐的使用模式，将bean 和业务接口存放于接口工程中
